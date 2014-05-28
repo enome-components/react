@@ -14,3 +14,4 @@ EOF
 
 git add .
 git commit -a -m "$VERSION"
+git push
