@@ -1,0 +1,7 @@
+{
+  "name": "react",
+  "repositiory": "enome/react",
+  "version": "0.10.0",
+  "description": "https://github.com/facebook/react",
+  "scripts": ["react.js"]
+}
